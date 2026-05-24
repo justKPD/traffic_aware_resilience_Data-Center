@@ -1,5 +1,5 @@
 # Traffic-Aware Network Resilience AI
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8288d046-6103-4d1f-b538-297c2c61738e" />
+<img width="1485" height="887" alt="image" src="https://github.com/user-attachments/assets/b02e677e-7833-4294-b209-590a01390c3e" />
 
 
 AI-powered traffic management for data center spine-leaf topologies.

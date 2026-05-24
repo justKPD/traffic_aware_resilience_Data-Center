@@ -1,0 +1,17 @@
+{
+  "baseline": {
+    "avg_availability": 99.83732876712328,
+    "avg_throughput_modifier": 1.1500000000000004,
+    "avg_failure_modifier": 1.0
+  },
+  "partial": {
+    "avg_availability": 99.81164383561644,
+    "avg_throughput_modifier": 1.1338945839459316,
+    "avg_failure_modifier": 0.9785261119279087
+  },
+  "full": {
+    "avg_availability": 99.62614155251143,
+    "avg_throughput_modifier": 1.1338875370634998,
+    "avg_failure_modifier": 0.9785167160846665
+  }
+}

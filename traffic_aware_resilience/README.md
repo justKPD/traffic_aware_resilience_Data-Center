@@ -89,9 +89,8 @@ python tests/test_integration.py
 | Spine failure impact | Full blast radius | -- | 70% reduction |
 | AI/ML throughput | Baseline | -- | +30% improvement |
 
-## THD Deggendorf specifications
 
-Real measurements from the Lehrrechenzentrum planning documents:
+Real measurements and metrics used form actual data center:
 
 - **3 rooms**: 57.15 m², 67.94 m², 111.97 m²
 - **Room heights**: 4.98 m, 7.53 m, 9.38 m
